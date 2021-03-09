@@ -11,7 +11,7 @@
 	height: 900px;
 	margin-left: -1.5%;
 	width: 300px;
-	background-color: #1F618D;
+	background-color: #5499C7;
 }
 
 .dot
@@ -37,6 +37,16 @@
 }
 
 .fa-map-marker
+{
+	margin: 3% 5%;
+}
+
+.fa-envelope-o
+{
+	margin: 3% 5%;
+}
+
+.fa-phone
 {
 	margin: 3% 5%;
 }
