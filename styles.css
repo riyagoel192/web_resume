@@ -78,3 +78,23 @@ h5
 	margin-left: 29%;
 	margin-top: 6%;
 }
+
+table
+{
+	position: absolute;
+	margin: 22% 30%;
+	border-collapse: collapse;
+	width: 67%;
+	border: 1px solid #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  font-size: 13px;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
