@@ -103,3 +103,12 @@ tr:nth-child(even) {
 {
 	margin: 0 2%;
 }
+
+#my-img
+{
+	height: 170px;
+  	width: 170px;
+  	border-radius: 50%;
+  	display: inline-block;
+  	/*margin: 10% 18%;*/
+}
