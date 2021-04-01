@@ -1,14 +1,14 @@
 .col-8
 {
 	border: 1px solid black;
-	height: 900px;
+	height: 1400px;
 	margin: 1% 19%;
 }
 
 .col-4
 {
 	/*border: 1px solid green;*/
-	height: 900px;
+	height: 1400px;
 	margin-left: -1.5%;
 	width: 300px;
 	background-color: #5499C7;
@@ -76,13 +76,13 @@ h5
 	background-color: white;
 	border: none;
 	margin-left: 29%;
-	margin-top: 6%;
+	margin-top: 4%;
 }
 
 table
 {
 	position: absolute;
-	margin: 22% 30%;
+	margin: 18% 30%;
 	border-collapse: collapse;
 	width: 67%;
 	border: 1px solid #dddddd;
@@ -92,7 +92,7 @@ td, th {
   border: 1px solid #dddddd;
   text-align: center;
   font-size: 13px;
-  padding: 8px;
+  padding: 6px;
 }
 
 tr:nth-child(even) {
@@ -122,6 +122,19 @@ tr:nth-child(even) {
 }
 
 #soft-heading
+{
+	text-align: left;
+}
+
+#areas
+{
+	/*border: 1px solid red;*/
+	height: 80px;
+	width: 106%;
+	margin-top: 12%;
+}
+
+#expertise
 {
 	text-align: left;
 }
