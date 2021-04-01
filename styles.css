@@ -112,3 +112,16 @@ tr:nth-child(even) {
   	display: inline-block;
   	/*margin: 10% 18%;*/
 }
+
+#soft-skills
+{
+	/*border: 1px solid red;*/
+	height: 80px;
+	width: 106%;
+	margin-top: 12%;
+}
+
+#soft-heading
+{
+	text-align: left;
+}
